@@ -1,0 +1,39 @@
+@media screen and (max-width: 3840px){
+  .conteneur {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .conteneur p {
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+
+  }
+
+  .skill {
+    text-align: start;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: lightgray;
+    border-spacing: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+  }
+
+  .skill-content{
+    padding-top: 15px;
+  }
+
+  .skill-content a, img {
+    margin-bottom: 10px;
+  }
+
+  .skill p {
+
+  }
+
+
+}

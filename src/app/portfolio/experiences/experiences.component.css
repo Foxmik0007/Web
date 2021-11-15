@@ -1,0 +1,14 @@
+td {
+  text-align: left;
+}
+
+th {
+  font-size: larger;
+  padding-top: 20px;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+
+

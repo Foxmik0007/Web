@@ -1,0 +1,12 @@
+@media screen {
+  .content{
+    text-align: center;
+    width: content-box;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+}
+
